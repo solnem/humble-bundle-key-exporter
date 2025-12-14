@@ -7,7 +7,7 @@ I've been a HumbleBundle supporter since it first started. As you might imagine,
 ## Usage
 
 - Create a bookmark in your browser and name it what you like
-- Edit the address field and [paste the copied contents of dist/bookmarklet-loader.js](https://raw.githubusercontent.com/javierjulio/humble-bundle-key-exporter/master/dist/bookmarklet-loader.js)
+- Edit the address field and [paste the copied contents of dist/bookmarklet-loader.js](https://raw.githubusercontent.com/solnem/humble-bundle-key-exporter/master/dist/bookmarklet-loader.js)
 - Go to [your HumbleBundle Keys page](https://www.humblebundle.com/home/keys) and click the bookmark
 - Once parsing is complete, a file named `humble-bundle-keys.json` will be downloaded
 
