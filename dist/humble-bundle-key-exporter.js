@@ -11,9 +11,9 @@ var HumbleBundleKeyExporter = (function (e) {
       setTimeout(() => URL.revokeObjectURL(n.href), 500);
   }
   const o = async () => {
-      const e = document.getElementById("hide-redeemed");
-      console.log("Hiding redeemed keys."),
-        e.unchecked || (e.click(), await t(250));
+      //const e = document.getElementById("hide-redeemed");
+      //console.log("Hiding redeemed keys."),
+      //  e.checked || (e.click(), await t(250));
     },
     r = () =>
       [
